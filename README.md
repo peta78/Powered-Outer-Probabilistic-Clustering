@@ -1,5 +1,4 @@
-# POPC-examples-python
-[POPC examples](https://github.com/pepe78/POPC-examples) written in python (due to high demand)
+# Powered Outer Probabilistic Clustering
 
 ![ex1kmeans](./pics/ex1kmeans.png)
 ![ex1popc](./pics/ex1popc.png)
